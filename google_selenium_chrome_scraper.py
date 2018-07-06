@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 
 # INPUT
 in_file = 'input/'+'scores_2'
-out_file = 'data_2_e'
+out_file = 'output/'+'data_2_e'
 start_row = 1009
 
 # Connect to Chrome
